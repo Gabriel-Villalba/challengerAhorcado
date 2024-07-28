@@ -29,7 +29,12 @@ main{
     width: 100%;
     max-width: 1200px;
 }
+.logo-header{
+    width:40px;
+    height: 40px;
+    
 
+} 
 .pantallaPrincipal{
     display: flex;
     flex-direction: column;
