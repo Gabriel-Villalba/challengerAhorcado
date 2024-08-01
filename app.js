@@ -46,7 +46,7 @@ function mostrarSection(section) {
 let arrayPalabras = [
   "DAR",
   "HONRA",
-  "ACTITUD DEL CORAZON",
+  "ACTITUD",
   "PROSPERIDAD",
   "PRIMICIAS",
   "PROPOSITO",
