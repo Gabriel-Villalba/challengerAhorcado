@@ -51,6 +51,19 @@ let arrayPalabras = [
   "PRIMICIAS",
   "PROPOSITO",
   "LIBERTAD",
+  "FUTBOL",
+  "FUTURO",
+  "AMISTAD",
+  "AMOR",
+  "AMISTOSO",
+  "AMERICA",
+  "ARGENTINA",
+  "CAMPEON",
+  "MUNDIAL",
+  "FUTBOLISTA",
+  "PASAJERO",
+  "AVION",
+  "AVIONETA",
 ];
 
 const contenedorPalabra = document.querySelector("#palabraSecreta");
